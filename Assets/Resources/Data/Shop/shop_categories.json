@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "categoryId": "reward",
+      "nameKr": "보상",
+      "order": 1,
+      "unlockStage": 1,
+      "isActive": true
+    },
+    {
+      "categoryId": "pass",
+      "nameKr": "패스",
+      "order": 2,
+      "unlockStage": 1,
+      "isActive": true
+    },
+    {
+      "categoryId": "crystal",
+      "nameKr": "크리스탈",
+      "order": 3,
+      "unlockStage": 1,
+      "isActive": true
+    }
+  ]
+}
